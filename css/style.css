@@ -49,8 +49,7 @@ div {
     background-color: #ff0000;
     text-align: right;
     margin-left: 50px;
-    border-bottom: 2px solid;
-    border-left: 5px solid;
+    border-width: 0px 0px 2px 5px;
 }
 
 .blue {
@@ -76,7 +75,7 @@ div {
 }
 
 .green {
-    background-color: #008000;
+    background-color: #008500;
     text-align: left;
     margin-right: 50px;
     border-width: 2px 5px 0px 0px;
